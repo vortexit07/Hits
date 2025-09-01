@@ -2,8 +2,8 @@ name: Update Upcoming Releases
 
 on:
   schedule:
-    - cron: "0 * * * *"   # every hour at HH:00
-  workflow_dispatch:       # manual trigger from GitHub UI
+    - cron: "0 * * * *"   # every hour
+  workflow_dispatch:       # manual trigger
 
 jobs:
   scrape:
@@ -23,33 +23,17 @@ jobs:
       - name: Run scraper and save JSON
         run: python scrape.py > releases.json
 
-      - name: Ensure last_hash.txt exists
+      - name: Commit and push if changed
         run: |
-          if [ ! -f last_hash.txt ]; then
-            echo "" > last_hash.txt
-          fi
-
-      - name: Compute hash
-        id: hash
-        run: |
-          HASH=$(sha256sum releases.json | cut -d " " -f1)
-          echo "hash=$HASH" >> $GITHUB_OUTPUT
-
-      - name: Check if JSON changed
-        id: check
-        run: |
-          if grep -q "${{ steps.hash.outputs.hash }}" last_hash.txt; then
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add releases.json
+          # Check if there is anything to commit
+          if git diff --cached --quiet; then
             echo "No changes detected, exiting."
             exit 0
           fi
-
-      - name: Commit and push updates
-        run: |
-          echo "${{ steps.hash.outputs.hash }}" > last_hash.txt
-          git config user.name "github-actions[bot]"
-          git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add releases.json last_hash.txt
-          git diff --cached --quiet || git commit -m "Update releases.json"
+          git commit -m "Update releases.json"
           git push origin HEAD:main
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
