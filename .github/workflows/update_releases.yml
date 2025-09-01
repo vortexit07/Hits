@@ -1,25 +1,51 @@
-name: Scrape Upcoming Releases
+name: Update Upcoming Releases
 
 on:
   schedule:
-    - cron: "0 * * * *" # run every hour
-  workflow_dispatch:    # allow manual trigger
+    - cron: "0 * * * *"   # every hour at HH:00
+  workflow_dispatch:       # manual trigger from GitHub UI
 
 jobs:
   scrape:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v3
+      - name: Checkout repo
+        uses: actions/checkout@v3
+
       - name: Set up Python
         uses: actions/setup-python@v4
         with:
           python-version: "3.11"
+
       - name: Install dependencies
         run: pip install requests beautifulsoup4
+
       - name: Run scraper and save JSON
         run: python scrape.py > releases.json
-      - name: Commit and push if changed
+
+      - name: Ensure last_hash.txt exists
         run: |
+          if [ ! -f last_hash.txt ]; then
+            echo "" > last_hash.txt
+          fi
+
+      - name: Compute hash
+        id: hash
+        run: |
+          HASH=$(sha256sum releases.json | cut -d " " -f1)
+          echo "hash=$HASH" >> $GITHUB_OUTPUT
+
+      - name: Check if JSON changed
+        id: check
+        run: |
+          if grep -q "${{ steps.hash.outputs.hash }}" last_hash.txt; then
+            echo "No changes detected, exiting."
+            exit 0
+          fi
+
+      - name: Commit and push updates
+        run: |
+          echo "${{ steps.hash.outputs.hash }}" > last_hash.txt
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git add releases.json last_hash.txt
@@ -27,4 +53,3 @@ jobs:
           git push origin HEAD:main
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
