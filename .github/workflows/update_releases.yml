@@ -11,6 +11,8 @@ jobs:
     steps:
       - name: Checkout repo
         uses: actions/checkout@v3
+        with:
+          fetch-depth: 0
 
       - name: Set up Python
         uses: actions/setup-python@v4
@@ -33,6 +35,6 @@ jobs:
             exit 0
           fi
           git commit -m "Update releases.json"
-          git push https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/vortexit07/Hits.git HEAD:main
+          git push https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/vortexit07/Hits.git HEAD:main --force
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
