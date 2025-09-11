@@ -591,6 +591,11 @@
   },
   {
     "date": "7 November 2025",
+    "artist": "Armand Hammer",
+    "album": "Mercy"
+  },
+  {
+    "date": "7 November 2025",
     "artist": "Finger Eleven",
     "album": "Last Night On Earth"
   },
@@ -618,6 +623,11 @@
     "date": "7 November 2025",
     "artist": "Sorry",
     "album": "COSPLAY"
+  },
+  {
+    "date": "7 November 2025",
+    "artist": "Stella Donnelly",
+    "album": "Love And Fortune"
   },
   {
     "date": "7 November 2025",
@@ -683,5 +693,10 @@
     "date": "30 January 2026",
     "artist": "Cast",
     "album": "Yeah Yeah Yeah"
+  },
+  {
+    "date": "20 March 2026",
+    "artist": "Gorillaz",
+    "album": "The Mountain"
   }
 ]
