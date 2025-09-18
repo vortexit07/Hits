@@ -601,6 +601,11 @@
   },
   {
     "date": "14 November 2025",
+    "artist": "AVTT/PTTN",
+    "album": "AVTT/PTTN"
+  },
+  {
+    "date": "14 November 2025",
     "artist": "Cheap Trick",
     "album": "All Washed Up"
   },
@@ -620,6 +625,11 @@
     "album": "Changes In Air"
   },
   {
+    "date": "21 November 2025",
+    "artist": "Keaton Henson",
+    "album": "Parader"
+  },
+  {
     "date": "5 December 2025",
     "artist": "Tom Smith",
     "album": "There Is Nothing In The Dark Which Isn’t There In The Light"
@@ -633,6 +643,11 @@
     "date": "30 January 2026",
     "artist": "Cast",
     "album": "Yeah Yeah Yeah"
+  },
+  {
+    "date": "13 February 2026",
+    "artist": "Ásgeir",
+    "album": "Julia"
   },
   {
     "date": "20 March 2026",
