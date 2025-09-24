@@ -336,6 +336,11 @@
   },
   {
     "date": "24 October 2025",
+    "artist": "Bahamas",
+    "album": "My Second Last Album"
+  },
+  {
+    "date": "24 October 2025",
     "artist": "Big Wreck",
     "album": "The Rest Of The Story"
   },
@@ -458,6 +463,11 @@
     "date": "7 November 2025",
     "artist": "Armand Hammer",
     "album": "Mercy"
+  },
+  {
+    "date": "7 November 2025",
+    "artist": "Danny Brown",
+    "album": "Stardust"
   },
   {
     "date": "7 November 2025",
