@@ -256,6 +256,11 @@
   },
   {
     "date": "7 November 2025",
+    "artist": "Portugal. The Man",
+    "album": "SHISH"
+  },
+  {
+    "date": "7 November 2025",
     "artist": "Sorry",
     "album": "COSPLAY"
   },
@@ -340,6 +345,11 @@
     "album": "The Great Lakes Suite"
   },
   {
+    "date": "28 November 2025",
+    "artist": "Jessie J",
+    "album": "Don't Tease Me With A Good Time"
+  },
+  {
     "date": "5 December 2025",
     "artist": "Melody's Echo Chamber",
     "album": "Unclouded"
@@ -375,9 +385,19 @@
     "album": "Selling A Vibe"
   },
   {
+    "date": "16 January 2026",
+    "artist": "Mary Lattimore & Julianna Barwick",
+    "album": "Tragic Magic"
+  },
+  {
     "date": "23 January 2026",
     "artist": "Louis Tomlinson",
     "album": "How Did I Get Here?"
+  },
+  {
+    "date": "23 January 2026",
+    "artist": "Megadeth",
+    "album": "Megadeth"
   },
   {
     "date": "30 January 2026",
@@ -403,6 +423,16 @@
     "date": "13 February 2026",
     "artist": "Ásgeir",
     "album": "Julia"
+  },
+  {
+    "date": "20 February 2026",
+    "artist": "New Found Glory",
+    "album": "Listen Up!"
+  },
+  {
+    "date": "27 February 2026",
+    "artist": "Rob Zombie",
+    "album": "The Great Satan"
   },
   {
     "date": "20 March 2026",
