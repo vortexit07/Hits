@@ -211,6 +211,11 @@
   },
   {
     "date": "7 November 2025",
+    "artist": "Westerman",
+    "album": "A Jackal's Wedding"
+  },
+  {
+    "date": "7 November 2025",
     "artist": "White Lies",
     "album": "Night Light"
   },
@@ -248,6 +253,11 @@
     "date": "14 November 2025",
     "artist": "The Bros. Landreth",
     "album": "Dog Ear"
+  },
+  {
+    "date": "14 November 2025",
+    "artist": "The Neighbourhood",
+    "album": "(((((ultraSOUND)))))"
   },
   {
     "date": "21 November 2025",
@@ -396,6 +406,11 @@
   },
   {
     "date": "13 February 2026",
+    "artist": "Chet Faker",
+    "album": "A Love For Strangers"
+  },
+  {
+    "date": "13 February 2026",
     "artist": "Howling Bells",
     "album": "Strange Life"
   },
@@ -423,5 +438,10 @@
     "date": "20 March 2026",
     "artist": "Gorillaz",
     "album": "The Mountain"
+  },
+  {
+    "date": "17 April 2026",
+    "artist": "Tiga",
+    "album": "HOTLIFE"
   }
 ]
