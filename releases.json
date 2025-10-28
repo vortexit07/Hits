@@ -256,6 +256,11 @@
   },
   {
     "date": "16 January 2026",
+    "artist": "Madison Beer",
+    "album": "lcket"
+  },
+  {
+    "date": "16 January 2026",
     "artist": "Mary Lattimore & Julianna Barwick",
     "album": "Tragic Magic"
   },
@@ -271,13 +276,13 @@
   },
   {
     "date": "23 January 2026",
-    "artist": "Madison Beer",
-    "album": "Locket"
+    "artist": "Megadeth",
+    "album": "Megadeth"
   },
   {
     "date": "23 January 2026",
-    "artist": "Megadeth",
-    "album": "Megadeth"
+    "artist": "The Format",
+    "album": "Boycott Heaven"
   },
   {
     "date": "30 January 2026",
@@ -295,6 +300,16 @@
     "album": "I Used To Go To This Bar"
   },
   {
+    "date": "30 January 2026",
+    "artist": "Sébastien Tellier",
+    "album": "Kiss The Beast"
+  },
+  {
+    "date": "30 January 2026",
+    "artist": "The Soft Pink Truth",
+    "album": "Can Such Delightful Times Go On Forever?"
+  },
+  {
     "date": "6 February 2026",
     "artist": "Beverly Glenn-Copeland",
     "album": "Laughter In Summer"
@@ -308,6 +323,11 @@
     "date": "6 February 2026",
     "artist": "Puscifer",
     "album": "Normal Isn't"
+  },
+  {
+    "date": "6 February 2026",
+    "artist": "Ratboys",
+    "album": "Singin' To An Empty Chair"
   },
   {
     "date": "6 February 2026",
@@ -358,5 +378,10 @@
     "date": "17 April 2026",
     "artist": "Tiga",
     "album": "HOTLIFE"
+  },
+  {
+    "date": "1 May 2026",
+    "artist": "Melanie C",
+    "album": "Sweat"
   }
 ]
