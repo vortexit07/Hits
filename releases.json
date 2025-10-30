@@ -281,6 +281,11 @@
   },
   {
     "date": "23 January 2026",
+    "artist": "Lucinda Williams",
+    "album": "World’s Gone Wrong"
+  },
+  {
+    "date": "23 January 2026",
     "artist": "Megadeth",
     "album": "Megadeth"
   },
@@ -358,6 +363,11 @@
     "date": "13 February 2026",
     "artist": "Howling Bells",
     "album": "Strange Life"
+  },
+  {
+    "date": "13 February 2026",
+    "artist": "Mumford & Sons",
+    "album": "Prizefighter"
   },
   {
     "date": "20 February 2026",
