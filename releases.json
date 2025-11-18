@@ -191,6 +191,16 @@
   },
   {
     "date": "6 February 2026",
+    "artist": "Daphni",
+    "album": "Butterfly"
+  },
+  {
+    "date": "6 February 2026",
+    "artist": "Jay Buchanan",
+    "album": "Weapons Of Beauty"
+  },
+  {
+    "date": "6 February 2026",
     "artist": "Mandy, Indiana",
     "album": "URGH"
   },
@@ -231,6 +241,11 @@
   },
   {
     "date": "13 February 2026",
+    "artist": "Gogol Bordello",
+    "album": "We Mean It, Man!"
+  },
+  {
+    "date": "13 February 2026",
     "artist": "Howling Bells",
     "album": "Strange Life"
   },
@@ -251,6 +266,11 @@
   },
   {
     "date": "27 February 2026",
+    "artist": "Crooked Fingers",
+    "album": "Swet Deth"
+  },
+  {
+    "date": "27 February 2026",
     "artist": "Rob Zombie",
     "album": "The Great Satan"
   },
@@ -258,6 +278,11 @@
     "date": "6 March 2026",
     "artist": "Charlie Puth",
     "album": "Whatever's Clever!"
+  },
+  {
+    "date": "6 March 2026",
+    "artist": "Squeeze",
+    "album": "Trixies"
   },
   {
     "date": "13 March 2026",
