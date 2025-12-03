@@ -211,6 +211,11 @@
   },
   {
     "date": "13 February 2026",
+    "artist": "Charli XCX",
+    "album": "Wuthering Heights"
+  },
+  {
+    "date": "13 February 2026",
     "artist": "Chet Faker",
     "album": "A Love For Strangers"
   },
@@ -275,6 +280,11 @@
     "album": "The Great Satan"
   },
   {
+    "date": "27 February 2026",
+    "artist": "Voxtrot",
+    "album": "Dreamers In Exile"
+  },
+  {
     "date": "6 March 2026",
     "artist": "Charlie Puth",
     "album": "Whatever's Clever!"
@@ -293,6 +303,11 @@
     "date": "20 March 2026",
     "artist": "Gorillaz",
     "album": "The Mountain"
+  },
+  {
+    "date": "20 March 2026",
+    "artist": "Ladytron",
+    "album": "Paradises"
   },
   {
     "date": "10 April 2026",
