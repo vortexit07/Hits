@@ -50,6 +50,11 @@
     "album": "The Demise Of Planet X"
   },
   {
+    "date": "16 January 2026",
+    "artist": "They Might Be Giants",
+    "album": "Eyeball"
+  },
+  {
     "date": "23 January 2026",
     "artist": "Louis Tomlinson",
     "album": "How Did I Get Here?"
@@ -231,6 +236,16 @@
   },
   {
     "date": "27 February 2026",
+    "artist": "Bruno Mars",
+    "album": "The Romantic"
+  },
+  {
+    "date": "27 February 2026",
+    "artist": "Buck Meek",
+    "album": "The Mirror"
+  },
+  {
+    "date": "27 February 2026",
     "artist": "Crooked Fingers",
     "album": "Swet Deth"
   },
@@ -241,6 +256,11 @@
   },
   {
     "date": "27 February 2026",
+    "artist": "Iron & Wine",
+    "album": "Hen's Teeth"
+  },
+  {
+    "date": "27 February 2026",
     "artist": "Rob Zombie",
     "album": "The Great Satan"
   },
@@ -248,6 +268,16 @@
     "date": "27 February 2026",
     "artist": "Voxtrot",
     "album": "Dreamers In Exile"
+  },
+  {
+    "date": "6 March 2026",
+    "artist": "Bonnie 'Prince' Billy",
+    "album": "We Are Together Again"
+  },
+  {
+    "date": "6 March 2026",
+    "artist": "Book Of Churches",
+    "album": "Book Of Churches"
   },
   {
     "date": "6 March 2026",
@@ -278,6 +308,21 @@
     "date": "20 March 2026",
     "artist": "Ladytron",
     "album": "Paradises"
+  },
+  {
+    "date": "27 March 2026",
+    "artist": "MEMORIALS",
+    "album": "All Clouds Bring Not Rain"
+  },
+  {
+    "date": "27 March 2026",
+    "artist": "Robyn",
+    "album": "Sexistential"
+  },
+  {
+    "date": "27 March 2026",
+    "artist": "The Twilight Sad",
+    "album": "IT’S THE LONG GOODBYE"
   },
   {
     "date": "10 April 2026",
