@@ -211,6 +211,11 @@
   },
   {
     "date": "27 February 2026",
+    "artist": "Kwes.",
+    "album": "Kinds"
+  },
+  {
+    "date": "27 February 2026",
     "artist": "Lala Lala",
     "album": "Heaven 2"
   },
@@ -321,6 +326,11 @@
   },
   {
     "date": "27 March 2026",
+    "artist": "Courtney Barnett",
+    "album": "Creature Of Habit"
+  },
+  {
+    "date": "27 March 2026",
     "artist": "Flea",
     "album": "Honora"
   },
@@ -343,6 +353,11 @@
     "date": "27 March 2026",
     "artist": "Robyn",
     "album": "Sexistential"
+  },
+  {
+    "date": "27 March 2026",
+    "artist": "Snail Mail",
+    "album": "Ricochet"
   },
   {
     "date": "27 March 2026",
@@ -383,5 +398,10 @@
     "date": "1 May 2026",
     "artist": "Melanie C",
     "album": "Sweat"
+  },
+  {
+    "date": "1 May 2026",
+    "artist": "Tori Amos",
+    "album": "In Times Of Dragons"
   }
 ]
