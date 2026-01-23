@@ -221,6 +221,11 @@
   },
   {
     "date": "27 February 2026",
+    "artist": "Gorillaz",
+    "album": "The Mountain"
+  },
+  {
+    "date": "27 February 2026",
     "artist": "Hey Colossus",
     "album": "Heaven Was Wild"
   },
@@ -300,6 +305,11 @@
     "album": "Saputjiji"
   },
   {
+    "date": "6 March 2026",
+    "artist": "The Scythe",
+    "album": "Strictly 4 The Scythe"
+  },
+  {
     "date": "13 March 2026",
     "artist": "Crack Cloud",
     "album": "Peace And Purpose"
@@ -308,6 +318,11 @@
     "date": "13 March 2026",
     "artist": "Cut Worms",
     "album": "Transmitter"
+  },
+  {
+    "date": "13 March 2026",
+    "artist": "James Blake",
+    "album": "Trying Times"
   },
   {
     "date": "13 March 2026",
@@ -343,11 +358,6 @@
     "date": "20 March 2026",
     "artist": "BTS",
     "album": "Arirang"
-  },
-  {
-    "date": "20 March 2026",
-    "artist": "Gorillaz",
-    "album": "The Mountain"
   },
   {
     "date": "20 March 2026",
@@ -391,6 +401,11 @@
   },
   {
     "date": "27 March 2026",
+    "artist": "RAYE",
+    "album": "THIS MUSIC MAY CONTAIN HOPE"
+  },
+  {
+    "date": "27 March 2026",
     "artist": "Robyn",
     "album": "Sexistential"
   },
@@ -426,6 +441,11 @@
   },
   {
     "date": "10 April 2026",
+    "artist": "Fantastic Cat",
+    "album": "Cat Out Of Hell"
+  },
+  {
+    "date": "10 April 2026",
     "artist": "Joe Jackson",
     "album": "Hope And Fury"
   },
@@ -458,5 +478,10 @@
     "date": "1 May 2026",
     "artist": "Tori Amos",
     "album": "In Times Of Dragons"
+  },
+  {
+    "date": "29 May 2026",
+    "artist": "Káryyn",
+    "album": "Physics Universal Love Language (PULL)"
   }
 ]
