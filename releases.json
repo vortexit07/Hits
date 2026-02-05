@@ -1,6 +1,11 @@
 [
   {
     "date": "6 February 2026",
+    "artist": "Alice Costelloe",
+    "album": "Move On With The Year"
+  },
+  {
+    "date": "6 February 2026",
     "artist": "Beverly Glenn-Copeland",
     "album": "Laughter In Summer"
   },
@@ -48,6 +53,11 @@
     "date": "6 February 2026",
     "artist": "Silversun Pickups",
     "album": "Tenterhooks"
+  },
+  {
+    "date": "6 February 2026",
+    "artist": "Ulrika Spacek",
+    "album": "EXPO"
   },
   {
     "date": "13 February 2026",
@@ -406,6 +416,11 @@
   },
   {
     "date": "17 April 2026",
+    "artist": "Arkells",
+    "album": "Between Us"
+  },
+  {
+    "date": "17 April 2026",
     "artist": "Tiga",
     "album": "HOTLIFE"
   },
@@ -458,6 +473,11 @@
     "date": "1 May 2026",
     "artist": "Melanie C",
     "album": "Sweat"
+  },
+  {
+    "date": "1 May 2026",
+    "artist": "The Black Keys",
+    "album": "Peaches!"
   },
   {
     "date": "1 May 2026",
