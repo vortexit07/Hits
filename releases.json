@@ -41,6 +41,11 @@
   },
   {
     "date": "20 February 2026",
+    "artist": "Baby Keem",
+    "album": "Ca$ino"
+  },
+  {
+    "date": "20 February 2026",
     "artist": "Hen Ogledd",
     "album": "DISCOMBOBULATED"
   },
@@ -411,6 +416,11 @@
   },
   {
     "date": "1 May 2026",
+    "artist": "Geordie Gordon",
+    "album": "River Round"
+  },
+  {
+    "date": "1 May 2026",
     "artist": "Jesca Hoop",
     "album": "Long Wave Home"
   },
@@ -451,8 +461,18 @@
   },
   {
     "date": "15 May 2026",
+    "artist": "Kevin Morby",
+    "album": "Little Wide Open"
+  },
+  {
+    "date": "15 May 2026",
     "artist": "Maisie Peters",
     "album": "Florescence"
+  },
+  {
+    "date": "22 May 2026",
+    "artist": "Bleachers",
+    "album": "everyone for ten minutes"
   },
   {
     "date": "29 May 2026",
