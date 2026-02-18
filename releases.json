@@ -286,6 +286,16 @@
   },
   {
     "date": "3 April 2026",
+    "artist": "Billy Fuller",
+    "album": "Fragments"
+  },
+  {
+    "date": "3 April 2026",
+    "artist": "Charley Crockett",
+    "album": "Age Of The Ram"
+  },
+  {
+    "date": "3 April 2026",
     "artist": "Sunn O)))",
     "album": "Sunn O)))"
   },
@@ -320,6 +330,11 @@
     "album": "Maybe Not Tonight"
   },
   {
+    "date": "10 April 2026",
+    "artist": "My New Band Believe",
+    "album": "My New Band Believe"
+  },
+  {
     "date": "17 April 2026",
     "artist": "Arkells",
     "album": "Between Us"
@@ -328,6 +343,11 @@
     "date": "17 April 2026",
     "artist": "Tiga",
     "album": "HOTLIFE"
+  },
+  {
+    "date": "17 April 2026",
+    "artist": "Yaya Bey",
+    "album": "Fidelity"
   },
   {
     "date": "17 April 2026",
@@ -356,6 +376,11 @@
   },
   {
     "date": "24 April 2026",
+    "artist": "Julia Cumming",
+    "album": "Julia"
+  },
+  {
+    "date": "24 April 2026",
     "artist": "Kneecap",
     "album": "FENIAN"
   },
@@ -378,6 +403,11 @@
     "date": "24 April 2026",
     "artist": "Noah Kahan",
     "album": "The Great Divide"
+  },
+  {
+    "date": "1 May 2026",
+    "artist": "American Football",
+    "album": "American Football"
   },
   {
     "date": "1 May 2026",
@@ -473,5 +503,10 @@
     "date": "29 May 2026",
     "artist": "Shinedown",
     "album": "Ei8ht"
+  },
+  {
+    "date": "19 June 2026",
+    "artist": "Life",
+    "album": "ABSTRACT/NATURAL"
   }
 ]
