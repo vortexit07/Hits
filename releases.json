@@ -336,6 +336,11 @@
   },
   {
     "date": "24 April 2026",
+    "artist": "Failure",
+    "album": "Location Lost"
+  },
+  {
+    "date": "24 April 2026",
     "artist": "Friko",
     "album": "Something Worth Waiting For"
   },
@@ -376,6 +381,11 @@
   },
   {
     "date": "1 May 2026",
+    "artist": "Ana Roxanne",
+    "album": "Poem 1"
+  },
+  {
+    "date": "1 May 2026",
     "artist": "Geordie Gordon",
     "album": "River Round"
   },
@@ -388,6 +398,11 @@
     "date": "1 May 2026",
     "artist": "Jesca Hoop",
     "album": "Long Wave Home"
+  },
+  {
+    "date": "1 May 2026",
+    "artist": "Lip Critic",
+    "album": "Theft World"
   },
   {
     "date": "1 May 2026",
@@ -408,6 +423,11 @@
     "date": "1 May 2026",
     "artist": "Weird Nightmare",
     "album": "Hoopla"
+  },
+  {
+    "date": "1 May 2026",
+    "artist": "Young the Giant",
+    "album": "Victory Garden"
   },
   {
     "date": "8 May 2026",
@@ -440,8 +460,18 @@
     "album": "everyone for ten minutes"
   },
   {
+    "date": "22 May 2026",
+    "artist": "Visible Cloaks",
+    "album": "Paradessence"
+  },
+  {
     "date": "29 May 2026",
     "artist": "Káryyn",
     "album": "Physics Universal Love Language (PULL)"
+  },
+  {
+    "date": "29 May 2026",
+    "artist": "Shinedown",
+    "album": "Ei8ht"
   }
 ]
