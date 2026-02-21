@@ -206,6 +206,11 @@
   },
   {
     "date": "20 March 2026",
+    "artist": "Grace Ives",
+    "album": "Girlfriend"
+  },
+  {
+    "date": "20 March 2026",
     "artist": "Ladytron",
     "album": "Paradises"
   },
@@ -417,7 +422,7 @@
   {
     "date": "1 May 2026",
     "artist": "American Football",
-    "album": "American Football"
+    "album": "LP4"
   },
   {
     "date": "1 May 2026",
@@ -528,5 +533,10 @@
     "date": "19 June 2026",
     "artist": "Life",
     "album": "ABSTRACT/NATURAL"
+  },
+  {
+    "date": "26 June 2026",
+    "artist": "Temples",
+    "album": "BLISS"
   }
 ]
