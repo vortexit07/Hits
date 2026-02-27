@@ -86,6 +86,11 @@
   },
   {
     "date": "6 March 2026",
+    "artist": "Gnarls Barkley",
+    "album": "Atlanta"
+  },
+  {
+    "date": "6 March 2026",
     "artist": "Harry Styles",
     "album": "Kiss All the Time. Disco, Occasionally"
   },
@@ -310,9 +315,19 @@
     "album": "Kammerkonzert"
   },
   {
+    "date": "10 April 2026",
+    "artist": "Wu Lyf",
+    "album": "A Wave That Will Never Break"
+  },
+  {
     "date": "17 April 2026",
     "artist": "Arkells",
     "album": "Between Us"
+  },
+  {
+    "date": "17 April 2026",
+    "artist": "Honey Dijon",
+    "album": "Nightlife"
   },
   {
     "date": "17 April 2026",
@@ -358,6 +373,11 @@
     "date": "24 April 2026",
     "artist": "Gia Margaret",
     "album": "Singing"
+  },
+  {
+    "date": "24 April 2026",
+    "artist": "Irmin Schmidt",
+    "album": "Requiem"
   },
   {
     "date": "24 April 2026",
@@ -441,6 +461,11 @@
   },
   {
     "date": "1 May 2026",
+    "artist": "The Claypool Lennon Delirium",
+    "album": "The Great Parrot-Ox And The Golden Egg Of Empathy"
+  },
+  {
+    "date": "1 May 2026",
     "artist": "Tori Amos",
     "album": "In Times Of Dragons"
   },
@@ -468,6 +493,11 @@
     "date": "8 May 2026",
     "artist": "MUNA",
     "album": "Dancing On The Wall"
+  },
+  {
+    "date": "8 May 2026",
+    "artist": "Social Distortion",
+    "album": "Born To Kill"
   },
   {
     "date": "15 May 2026",
@@ -513,6 +543,11 @@
     "date": "29 May 2026",
     "artist": "Shinedown",
     "album": "Ei8ht"
+  },
+  {
+    "date": "5 June 2026",
+    "artist": "Poppy Ackroyd",
+    "album": "Liminal"
   },
   {
     "date": "19 June 2026",
