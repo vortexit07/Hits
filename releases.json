@@ -346,6 +346,11 @@
   },
   {
     "date": "24 April 2026",
+    "artist": "Ringo Starr",
+    "album": "Long Long Road"
+  },
+  {
+    "date": "24 April 2026",
     "artist": "Terror",
     "album": "STILL SUFFER"
   },
@@ -416,6 +421,16 @@
   },
   {
     "date": "8 May 2026",
+    "artist": "Aldous Harding",
+    "album": "Train On The Island"
+  },
+  {
+    "date": "8 May 2026",
+    "artist": "Basement",
+    "album": "WIRED"
+  },
+  {
+    "date": "8 May 2026",
     "artist": "Broken Social Scene",
     "album": "Remember the Humans"
   },
@@ -423,6 +438,11 @@
     "date": "8 May 2026",
     "artist": "Cola",
     "album": "Cost Of Living Adjustment"
+  },
+  {
+    "date": "8 May 2026",
+    "artist": "Lykke Li",
+    "album": "The Afterparty"
   },
   {
     "date": "8 May 2026",
