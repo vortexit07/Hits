@@ -11,11 +11,6 @@
   },
   {
     "date": "6 March 2026",
-    "artist": "Charlie Puth",
-    "album": "Whatever's Clever!"
-  },
-  {
-    "date": "6 March 2026",
     "artist": "Gnarls Barkley",
     "album": "Atlanta"
   },
@@ -118,6 +113,11 @@
     "date": "20 March 2026",
     "artist": "Ye",
     "album": "Bully"
+  },
+  {
+    "date": "27 March 2026",
+    "artist": "Charlie Puth",
+    "album": "Whatever's Clever!"
   },
   {
     "date": "27 March 2026",
@@ -451,6 +451,11 @@
   },
   {
     "date": "8 May 2026",
+    "artist": "GIRLI",
+    "album": "it’s just my opinion"
+  },
+  {
+    "date": "8 May 2026",
     "artist": "Loraine James",
     "album": "Detached From The Rest Of You"
   },
@@ -523,6 +528,16 @@
     "date": "5 June 2026",
     "artist": "Poppy Ackroyd",
     "album": "Liminal"
+  },
+  {
+    "date": "5 June 2026",
+    "artist": "Rosa Walton",
+    "album": "Tell Me It’s A Dream"
+  },
+  {
+    "date": "12 June 2026",
+    "artist": "The Bobby Lees",
+    "album": "New Self"
   },
   {
     "date": "19 June 2026",
