@@ -30,11 +30,6 @@
     "album": "Cynical Vision"
   },
   {
-    "date": "20 March 2026",
-    "artist": "Ye",
-    "album": "Bully"
-  },
-  {
     "date": "27 March 2026",
     "artist": "Charlie Puth",
     "album": "Whatever's Clever!"
@@ -103,6 +98,11 @@
     "date": "27 March 2026",
     "artist": "Tom Misch",
     "album": "Full Circle"
+  },
+  {
+    "date": "27 March 2026",
+    "artist": "ye",
+    "album": "Bully"
   },
   {
     "date": "3 April 2026",
