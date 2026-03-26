@@ -476,6 +476,11 @@
   },
   {
     "date": "29 May 2026",
+    "artist": "Doublespeak",
+    "album": "Doublespeak"
+  },
+  {
+    "date": "29 May 2026",
     "artist": "Guided by Voices",
     "album": "Crawlspace Of The Pantheon"
   },
@@ -483,6 +488,11 @@
     "date": "29 May 2026",
     "artist": "Káryyn",
     "album": "Physics Universal Love Language (PULL)"
+  },
+  {
+    "date": "29 May 2026",
+    "artist": "Paul McCartney",
+    "album": "The Boys Of Dungeon Lane"
   },
   {
     "date": "29 May 2026",
@@ -508,6 +518,11 @@
     "date": "5 June 2026",
     "artist": "Fink",
     "album": "The City Is Coming To Erase It All"
+  },
+  {
+    "date": "5 June 2026",
+    "artist": "Lee",
+    "album": "Spatial, No Problem."
   },
   {
     "date": "5 June 2026",
@@ -578,5 +593,10 @@
     "date": "26 June 2026",
     "artist": "The Pretty Reckless",
     "album": "Dear God"
+  },
+  {
+    "date": "14 August 2026",
+    "artist": "Jungle",
+    "album": "Sunshine"
   }
 ]
