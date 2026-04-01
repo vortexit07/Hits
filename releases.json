@@ -66,6 +66,11 @@
   },
   {
     "date": "10 April 2026",
+    "artist": "Snoop Dogg",
+    "album": "10 Til' Midnight"
+  },
+  {
+    "date": "10 April 2026",
     "artist": "Squarepusher",
     "album": "Kammerkonzert"
   },
@@ -73,6 +78,11 @@
     "date": "10 April 2026",
     "artist": "Wu Lyf",
     "album": "A Wave That Will Never Break"
+  },
+  {
+    "date": "14 April 2026",
+    "artist": "They Might Be Giants",
+    "album": "The World Is To Dig"
   },
   {
     "date": "17 April 2026",
@@ -248,6 +258,11 @@
     "date": "1 May 2026",
     "artist": "The Claypool Lennon Delirium",
     "album": "The Great Parrot-Ox And The Golden Egg Of Empathy"
+  },
+  {
+    "date": "1 May 2026",
+    "artist": "Toadies",
+    "album": "The Charmer"
   },
   {
     "date": "1 May 2026",
