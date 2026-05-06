@@ -236,6 +236,11 @@
   },
   {
     "date": "5 June 2026",
+    "artist": "Jared Mattson & Ruban Nielson",
+    "album": "FEAR"
+  },
+  {
+    "date": "5 June 2026",
     "artist": "Lee",
     "album": "Spatial, No Problem."
   },
@@ -253,6 +258,11 @@
     "date": "5 June 2026",
     "artist": "Niall Horan",
     "album": "Dinner Party"
+  },
+  {
+    "date": "5 June 2026",
+    "artist": "Of Montreal",
+    "album": "aethermead"
   },
   {
     "date": "5 June 2026",
@@ -470,8 +480,18 @@
     "album": "Decoding Birdsong"
   },
   {
+    "date": "21 August 2026",
+    "artist": "Lambchop",
+    "album": "Punching The Clown"
+  },
+  {
     "date": "4 September 2026",
     "artist": "Natalie Imbruglia",
     "album": "Algorithm"
+  },
+  {
+    "date": "4 September 2026",
+    "artist": "Personal Trainer",
+    "album": "Human Assholes"
   }
 ]
