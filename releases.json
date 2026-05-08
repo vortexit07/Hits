@@ -206,6 +206,11 @@
   },
   {
     "date": "29 May 2026",
+    "artist": "Turnover",
+    "album": "Down On Earth"
+  },
+  {
+    "date": "29 May 2026",
     "artist": "Violet Grohl",
     "album": "Be Sweet To Me"
   },
@@ -381,6 +386,11 @@
   },
   {
     "date": "26 June 2026",
+    "artist": "Melanie Radford",
+    "album": "For The Sake Of Stillness"
+  },
+  {
+    "date": "26 June 2026",
     "artist": "Muse",
     "album": "The WOW! Signal"
   },
@@ -450,6 +460,16 @@
     "album": "Different When It's Silent"
   },
   {
+    "date": "17 July 2026",
+    "artist": "Yard Act",
+    "album": "You’re Gonna Need A Little Music"
+  },
+  {
+    "date": "24 July 2026",
+    "artist": "FLO",
+    "album": "Therapy At The Club"
+  },
+  {
     "date": "24 July 2026",
     "artist": "Tyla",
     "album": "A*POP"
@@ -493,5 +513,10 @@
     "date": "4 September 2026",
     "artist": "Personal Trainer",
     "album": "Human Assholes"
+  },
+  {
+    "date": "6 November 2026",
+    "artist": "La Roux",
+    "album": "Old Flames"
   }
 ]
