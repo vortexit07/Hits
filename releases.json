@@ -1,6 +1,11 @@
 [
   {
     "date": "5 June 2026",
+    "artist": "August Burns Red",
+    "album": "Season Of Surrender"
+  },
+  {
+    "date": "5 June 2026",
     "artist": "Bedouine",
     "album": "Neon Summer Skin"
   },
@@ -18,6 +23,11 @@
     "date": "5 June 2026",
     "artist": "Deer Tick",
     "album": "Coin-O-Matic"
+  },
+  {
+    "date": "5 June 2026",
+    "artist": "Evanescence",
+    "album": "Sanctuary"
   },
   {
     "date": "5 June 2026",
@@ -56,8 +66,18 @@
   },
   {
     "date": "5 June 2026",
+    "artist": "Old Crow Medicine Show",
+    "album": "Union Made"
+  },
+  {
+    "date": "5 June 2026",
     "artist": "Poppy Ackroyd",
     "album": "Liminal"
+  },
+  {
+    "date": "5 June 2026",
+    "artist": "Red Clay Strays",
+    "album": "Grateful"
   },
   {
     "date": "5 June 2026",
@@ -111,8 +131,23 @@
   },
   {
     "date": "12 June 2026",
+    "artist": "Keith Urban",
+    "album": "flow state"
+  },
+  {
+    "date": "12 June 2026",
     "artist": "Kelsey Lu",
     "album": "So Help Me God"
+  },
+  {
+    "date": "12 June 2026",
+    "artist": "Mike Campbell & the Dirty Knobs",
+    "album": "Mission Of Mercy"
+  },
+  {
+    "date": "12 June 2026",
+    "artist": "Mono",
+    "album": "Snowdrop"
   },
   {
     "date": "12 June 2026",
@@ -136,8 +171,23 @@
   },
   {
     "date": "12 June 2026",
+    "artist": "Tori Kelly",
+    "album": "God Must Really Love Me"
+  },
+  {
+    "date": "12 June 2026",
+    "artist": "Yes",
+    "album": "Aurora"
+  },
+  {
+    "date": "12 June 2026",
     "artist": "YHWH Nailgun",
     "album": "Magazine"
+  },
+  {
+    "date": "19 June 2026",
+    "artist": "Daniel Lanois",
+    "album": "Belladonna Nocturne"
   },
   {
     "date": "19 June 2026",
@@ -171,6 +221,16 @@
   },
   {
     "date": "26 June 2026",
+    "artist": "Cody Johnson",
+    "album": "Banks Of The Trinity"
+  },
+  {
+    "date": "26 June 2026",
+    "artist": "Goose",
+    "album": "Big Modern!"
+  },
+  {
+    "date": "26 June 2026",
     "artist": "JJerome87",
     "album": "The Canyon"
   },
@@ -191,8 +251,18 @@
   },
   {
     "date": "26 June 2026",
+    "artist": "Switchfoot",
+    "album": "Forever Now"
+  },
+  {
+    "date": "26 June 2026",
     "artist": "Temples",
     "album": "BLISS"
+  },
+  {
+    "date": "26 June 2026",
+    "artist": "The Butthole Surfers",
+    "album": "After The Astronaut"
   },
   {
     "date": "26 June 2026",
@@ -205,9 +275,24 @@
     "album": "Reality Awaits"
   },
   {
+    "date": "26 June 2026",
+    "artist": "Tift Merritt",
+    "album": "Sugar"
+  },
+  {
+    "date": "3 July 2026",
+    "artist": "Deep Purple",
+    "album": "SPLAT!"
+  },
+  {
     "date": "3 July 2026",
     "artist": "Madonna",
     "album": "Confessions on a Dance Floor: Part II"
+  },
+  {
+    "date": "10 July 2026",
+    "artist": "Adam Lambert",
+    "album": "ADAM"
   },
   {
     "date": "10 July 2026",
@@ -276,8 +361,23 @@
   },
   {
     "date": "17 July 2026",
+    "artist": "Kasabian",
+    "album": "Act III"
+  },
+  {
+    "date": "17 July 2026",
     "artist": "Lido Pimienta",
     "album": "Caribenya"
+  },
+  {
+    "date": "17 July 2026",
+    "artist": "Motionless in White",
+    "album": "Decades"
+  },
+  {
+    "date": "17 July 2026",
+    "artist": "Ne-Yo",
+    "album": "Highway 79"
   },
   {
     "date": "17 July 2026",
@@ -321,6 +421,16 @@
   },
   {
     "date": "24 July 2026",
+    "artist": "Punch Brothers",
+    "album": "The Unsung Adventures Of Punch Brothers"
+  },
+  {
+    "date": "24 July 2026",
+    "artist": "Robyn Hitchcock",
+    "album": "THE CONFUSER"
+  },
+  {
+    "date": "24 July 2026",
     "artist": "Shania Twain",
     "album": "Little Miss Twain"
   },
@@ -338,6 +448,11 @@
     "date": "31 July 2026",
     "artist": "Ariana Grande",
     "album": "petal"
+  },
+  {
+    "date": "31 July 2026",
+    "artist": "Shaboozey",
+    "album": "The Outlaw Cherie Lee & Other Western Tales"
   },
   {
     "date": "31 July 2026",
@@ -421,6 +536,11 @@
   },
   {
     "date": "21 August 2026",
+    "artist": "Black Marble",
+    "album": "Life In Small Spaces"
+  },
+  {
+    "date": "21 August 2026",
     "artist": "Lambchop",
     "album": "Punching The Clown"
   },
@@ -433,6 +553,26 @@
     "date": "21 August 2026",
     "artist": "Wild Pink",
     "album": "Still Coming Down"
+  },
+  {
+    "date": "28 August 2026",
+    "artist": "Beartooth",
+    "album": "Pure Ecstasy"
+  },
+  {
+    "date": "28 August 2026",
+    "artist": "Everlast",
+    "album": "Embers To Ashes"
+  },
+  {
+    "date": "28 August 2026",
+    "artist": "Little Big Town",
+    "album": "It's A Dying Art"
+  },
+  {
+    "date": "28 August 2026",
+    "artist": "Sara Bareilles",
+    "album": "Good Grief"
   },
   {
     "date": "4 September 2026",
@@ -473,6 +613,11 @@
     "date": "11 September 2026",
     "artist": "Haruomi Hosono",
     "album": "Yours Sincerely"
+  },
+  {
+    "date": "18 September 2026",
+    "artist": "Anthrax",
+    "album": "Cursum Perficio"
   },
   {
     "date": "18 September 2026",
