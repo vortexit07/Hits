@@ -211,6 +211,11 @@
   },
   {
     "date": "10 July 2026",
+    "artist": "Jack White",
+    "album": "Frozen Charlotte"
+  },
+  {
+    "date": "10 July 2026",
     "artist": "Kelela",
     "album": "New Avatar"
   },
@@ -548,6 +553,11 @@
     "date": "11 September 2026",
     "artist": "Bloc Party",
     "album": "Anatomy Of A Brief Romance"
+  },
+  {
+    "date": "11 September 2026",
+    "artist": "Bonobo",
+    "album": "Distance In Static"
   },
   {
     "date": "11 September 2026",
