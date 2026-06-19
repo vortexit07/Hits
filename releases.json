@@ -461,8 +461,18 @@
   },
   {
     "date": "28 August 2026",
+    "artist": "Pulp",
+    "album": "Live!"
+  },
+  {
+    "date": "28 August 2026",
     "artist": "Sara Bareilles",
     "album": "Good Grief"
+  },
+  {
+    "date": "28 August 2026",
+    "artist": "Saul Williams",
+    "album": "Leap Life"
   },
   {
     "date": "28 August 2026",
@@ -513,6 +523,11 @@
     "date": "4 September 2026",
     "artist": "Personal Trainer",
     "album": "Human Assholes"
+  },
+  {
+    "date": "4 September 2026",
+    "artist": "The Black Wizards",
+    "album": "Force Majeure & The Acts of God"
   },
   {
     "date": "11 September 2026",
