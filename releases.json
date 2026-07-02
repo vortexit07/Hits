@@ -391,6 +391,11 @@
   },
   {
     "date": "28 August 2026",
+    "artist": "Dinosaur Jr.",
+    "album": "There Near"
+  },
+  {
+    "date": "28 August 2026",
     "artist": "Everlast",
     "album": "Embers To Ashes"
   },
@@ -403,6 +408,11 @@
     "date": "28 August 2026",
     "artist": "Jim James",
     "album": "Wowed Out"
+  },
+  {
+    "date": "28 August 2026",
+    "artist": "LA Priest",
+    "album": "Into The Sky"
   },
   {
     "date": "28 August 2026",
@@ -621,6 +631,11 @@
   },
   {
     "date": "2 October 2026",
+    "artist": "Fat Dog",
+    "album": "Cancel Me (I’m Tired)"
+  },
+  {
+    "date": "2 October 2026",
     "artist": "Johnny Marr",
     "album": "The Age Of Everything"
   },
@@ -665,9 +680,19 @@
     "album": "Magic For A While"
   },
   {
+    "date": "16 October 2026",
+    "artist": "Holy Motors",
+    "album": "Heaven's Night"
+  },
+  {
     "date": "23 October 2026",
     "artist": "Future Utopia",
     "album": "Being Human"
+  },
+  {
+    "date": "30 October 2026",
+    "artist": "The Big Moon",
+    "album": "Forever"
   },
   {
     "date": "6 November 2026",
