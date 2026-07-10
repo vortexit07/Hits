@@ -461,6 +461,11 @@
   },
   {
     "date": "28 August 2026",
+    "artist": "The Linda Lindas",
+    "album": "Gotta Get Out"
+  },
+  {
+    "date": "28 August 2026",
     "artist": "Ty Segall",
     "album": "Chrome"
   },
@@ -728,5 +733,10 @@
     "date": "6 November 2026",
     "artist": "La Roux",
     "album": "Old Flames"
+  },
+  {
+    "date": "6 November 2026",
+    "artist": "TV Priest",
+    "album": "Cartoons"
   }
 ]
