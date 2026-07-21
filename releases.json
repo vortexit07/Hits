@@ -66,6 +66,11 @@
   },
   {
     "date": "31 July 2026",
+    "artist": "Arca",
+    "album": "XXXXX"
+  },
+  {
+    "date": "31 July 2026",
     "artist": "Ariana Grande",
     "album": "petal"
   },
@@ -518,6 +523,11 @@
     "date": "25 September 2026",
     "artist": "Julia Jacklin",
     "album": "The Gem"
+  },
+  {
+    "date": "25 September 2026",
+    "artist": "Leon Bridges",
+    "album": "Happiness Anytime"
   },
   {
     "date": "25 September 2026",
