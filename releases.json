@@ -486,6 +486,11 @@
   },
   {
     "date": "18 September 2026",
+    "artist": "Dragonflies",
+    "album": "Dragonflies"
+  },
+  {
+    "date": "18 September 2026",
     "artist": "Echo & the Bunnymen",
     "album": "Apples For Isaac"
   },
@@ -508,6 +513,11 @@
     "date": "18 September 2026",
     "artist": "Jake Xerxes Fussell",
     "album": "The Old Beloved Path"
+  },
+  {
+    "date": "18 September 2026",
+    "artist": "Palace",
+    "album": "Ox"
   },
   {
     "date": "18 September 2026",
@@ -568,6 +578,11 @@
     "date": "25 September 2026",
     "artist": "Penelope Isles",
     "album": "3"
+  },
+  {
+    "date": "25 September 2026",
+    "artist": "Protomartyr",
+    "album": "Hotel Usona"
   },
   {
     "date": "25 September 2026",
@@ -698,5 +713,15 @@
     "date": "6 November 2026",
     "artist": "TV Priest",
     "album": "Cartoons"
+  },
+  {
+    "date": "6 November 2026",
+    "artist": "Various Artists",
+    "album": "Heart Of Gold: The Songs Of Neil Young, Vol. 2 - Out Of The Blue"
+  },
+  {
+    "date": "6 November 2026",
+    "artist": "Various Artists",
+    "album": "Heart Of Gold: The Songs Of Neil Young, Vol. 3 - Into The Black"
   }
 ]
