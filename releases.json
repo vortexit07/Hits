@@ -561,6 +561,11 @@
   },
   {
     "date": "25 September 2026",
+    "artist": "M83",
+    "album": "I Wrote You A Letter"
+  },
+  {
+    "date": "25 September 2026",
     "artist": "Mary Gauthier",
     "album": "Reckoning"
   },
@@ -631,6 +636,16 @@
   },
   {
     "date": "2 October 2026",
+    "artist": "Stef Chura",
+    "album": "Dancing Alone On The Concrete"
+  },
+  {
+    "date": "2 October 2026",
+    "artist": "Victoria Monét",
+    "album": "Frequency Of Love"
+  },
+  {
+    "date": "2 October 2026",
     "artist": "Walt Disco",
     "album": "walt disco"
   },
@@ -653,6 +668,11 @@
     "date": "9 October 2026",
     "artist": "Jess Williamson",
     "album": "A Mile South Of Heaven"
+  },
+  {
+    "date": "9 October 2026",
+    "artist": "Teenage Fanclub",
+    "album": "Do Not Dare To Dream"
   },
   {
     "date": "16 October 2026",
