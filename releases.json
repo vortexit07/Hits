@@ -406,6 +406,11 @@
   },
   {
     "date": "18 September 2026",
+    "artist": "Neil Young And The Chrome Hearts",
+    "album": "Second Song"
+  },
+  {
+    "date": "18 September 2026",
     "artist": "Orville Peck",
     "album": "Mule"
   },
@@ -586,6 +591,11 @@
   },
   {
     "date": "9 October 2026",
+    "artist": "Death Valley Girls",
+    "album": "Welcome To Earth"
+  },
+  {
+    "date": "9 October 2026",
     "artist": "Greta Van Fleet",
     "album": "Palace For The People"
   },
@@ -608,6 +618,11 @@
     "date": "9 October 2026",
     "artist": "Teenage Fanclub",
     "album": "Do Not Dare To Dream"
+  },
+  {
+    "date": "9 October 2026",
+    "artist": "The Tallest Man on Earth",
+    "album": "Just Beyond Endless Mountain"
   },
   {
     "date": "16 October 2026",
@@ -646,8 +661,18 @@
   },
   {
     "date": "23 October 2026",
+    "artist": "Art d'Ecco",
+    "album": "Scheele’s Green"
+  },
+  {
+    "date": "23 October 2026",
     "artist": "Future Utopia",
     "album": "Being Human"
+  },
+  {
+    "date": "23 October 2026",
+    "artist": "Shabazz Palaces",
+    "album": "It’s a Style Sport"
   },
   {
     "date": "30 October 2026",
@@ -708,5 +733,10 @@
     "date": "6 November 2026",
     "artist": "Various Artists",
     "album": "Heart Of Gold: The Songs Of Neil Young, Vol. 3 - Into The Black"
+  },
+  {
+    "date": "20 November 2026",
+    "artist": "Lael Neale",
+    "album": "As Killers Do"
   }
 ]
