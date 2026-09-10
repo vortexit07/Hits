@@ -26,6 +26,11 @@
   },
   {
     "date": "11 September 2026",
+    "artist": "Jhené Aiko",
+    "album": "Westside Whimsy"
+  },
+  {
+    "date": "11 September 2026",
     "artist": "Sylvan Esso",
     "album": "Ow ∞"
   },
@@ -106,8 +111,13 @@
   },
   {
     "date": "18 September 2026",
-    "artist": "Miley Cyrus",
+    "artist": "Miley",
     "album": "Bass Persuades"
+  },
+  {
+    "date": "18 September 2026",
+    "artist": "MNEK",
+    "album": "Bulldozer!!"
   },
   {
     "date": "18 September 2026",
@@ -571,8 +581,18 @@
   },
   {
     "date": "6 November 2026",
+    "artist": "Kings of Leon",
+    "album": "O My Beloved"
+  },
+  {
+    "date": "6 November 2026",
     "artist": "La Roux",
     "album": "Old Flames"
+  },
+  {
+    "date": "6 November 2026",
+    "artist": "Sufjan Stevens",
+    "album": "Worst Christmas Ever!"
   },
   {
     "date": "6 November 2026",
@@ -608,6 +628,11 @@
     "date": "20 November 2026",
     "artist": "Lael Neale",
     "album": "As Killers Do"
+  },
+  {
+    "date": "15 January 2027",
+    "artist": "Soul Glo",
+    "album": "NA I’M GON GRAB ALLAT"
   },
   {
     "date": "5 March 2027",
