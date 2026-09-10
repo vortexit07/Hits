@@ -421,6 +421,11 @@
   },
   {
     "date": "16 October 2026",
+    "artist": "Max Richter",
+    "album": "While The Flood Rages"
+  },
+  {
+    "date": "16 October 2026",
     "artist": "Rachel Chinouriri",
     "album": "I think I spoke too soon"
   },
@@ -546,6 +551,11 @@
   },
   {
     "date": "6 November 2026",
+    "artist": "Bryan Adams",
+    "album": "How's It Goin'"
+  },
+  {
+    "date": "6 November 2026",
     "artist": "Cult of Luna",
     "album": "In The Shadow Of Your Shadow"
   },
@@ -553,6 +563,11 @@
     "date": "6 November 2026",
     "artist": "Django Django",
     "album": "Doveland"
+  },
+  {
+    "date": "6 November 2026",
+    "artist": "Jozef Van Wissem And Jim Jarmusch",
+    "album": "Bocca di Lupo/Mouth Of The Wolf"
   },
   {
     "date": "6 November 2026",
@@ -593,5 +608,10 @@
     "date": "20 November 2026",
     "artist": "Lael Neale",
     "album": "As Killers Do"
+  },
+  {
+    "date": "5 March 2027",
+    "artist": "Liars",
+    "album": "A Ban On Plastic Bag Bans"
   }
 ]
