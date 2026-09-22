@@ -66,6 +66,11 @@
   },
   {
     "date": "25 September 2026",
+    "artist": "Tinashe",
+    "album": "Popstar"
+  },
+  {
+    "date": "25 September 2026",
     "artist": "Tom Morello",
     "album": "Everyone Gets Everything They Want"
   },
@@ -108,6 +113,11 @@
     "date": "2 October 2026",
     "artist": "Meshell Ndegeocello",
     "album": "Synonym"
+  },
+  {
+    "date": "2 October 2026",
+    "artist": "Miranda Lambert",
+    "album": "Crisco"
   },
   {
     "date": "2 October 2026",
@@ -168,6 +178,11 @@
     "date": "9 October 2026",
     "artist": "Death Valley Girls",
     "album": "Welcome To Earth"
+  },
+  {
+    "date": "9 October 2026",
+    "artist": "Dominic Fike",
+    "album": "How To Quit Smoking"
   },
   {
     "date": "9 October 2026",
@@ -323,6 +338,11 @@
     "date": "23 October 2026",
     "artist": "HMLTD",
     "album": "FANGS"
+  },
+  {
+    "date": "23 October 2026",
+    "artist": "John Legend",
+    "album": "Muse"
   },
   {
     "date": "23 October 2026",
@@ -528,6 +548,11 @@
     "date": "22 January 2027",
     "artist": "Kate Nash",
     "album": "Cailín"
+  },
+  {
+    "date": "22 January 2027",
+    "artist": "Teddy Swims",
+    "album": "UGLY"
   },
   {
     "date": "5 March 2027",
