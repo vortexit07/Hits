@@ -6,6 +6,11 @@
   },
   {
     "date": "25 September 2026",
+    "artist": "Cara Delevingne",
+    "album": "Not Normal"
+  },
+  {
+    "date": "25 September 2026",
     "artist": "Gilla Band",
     "album": "Pugnello"
   },
@@ -346,6 +351,11 @@
   },
   {
     "date": "23 October 2026",
+    "artist": "Michael Kiwanuka",
+    "album": "FUDGE"
+  },
+  {
+    "date": "23 October 2026",
     "artist": "Shabazz Palaces",
     "album": "It’s a Style Sport"
   },
@@ -436,6 +446,11 @@
   },
   {
     "date": "6 November 2026",
+    "artist": "Boys Noize",
+    "album": "7LLVSION"
+  },
+  {
+    "date": "6 November 2026",
     "artist": "Bryan Adams",
     "album": "How's It Goin'"
   },
@@ -448,6 +463,11 @@
     "date": "6 November 2026",
     "artist": "Django Django",
     "album": "Doveland"
+  },
+  {
+    "date": "6 November 2026",
+    "artist": "James Blunt",
+    "album": "Airplane Mode"
   },
   {
     "date": "6 November 2026",
@@ -471,8 +491,18 @@
   },
   {
     "date": "6 November 2026",
+    "artist": "Steven Wilson",
+    "album": "Requiem For A Village"
+  },
+  {
+    "date": "6 November 2026",
     "artist": "Sufjan Stevens",
     "album": "Worst Christmas Ever!"
+  },
+  {
+    "date": "6 November 2026",
+    "artist": "Sylvie",
+    "album": "New Season"
   },
   {
     "date": "6 November 2026",
@@ -501,6 +531,11 @@
   },
   {
     "date": "13 November 2026",
+    "artist": "Randy Travis",
+    "album": "Same Old Way"
+  },
+  {
+    "date": "13 November 2026",
     "artist": "Royal Blood",
     "album": "Dead Company"
   },
@@ -508,6 +543,11 @@
     "date": "13 November 2026",
     "artist": "The Body and Cel Genesis",
     "album": "Whole Wide World"
+  },
+  {
+    "date": "13 November 2026",
+    "artist": "U2",
+    "album": "Carnaval de Luz"
   },
   {
     "date": "20 November 2026",
@@ -525,9 +565,19 @@
     "album": "As Killers Do"
   },
   {
+    "date": "20 November 2026",
+    "artist": "Richard Skelton and Lawrence English",
+    "album": "NOON"
+  },
+  {
     "date": "8 January 2027",
     "artist": "Carissa’s Wierd",
     "album": "Somewhere Further Than Far Away"
+  },
+  {
+    "date": "15 January 2027",
+    "artist": "Brandy Clark",
+    "album": "the bird"
   },
   {
     "date": "15 January 2027",
@@ -545,6 +595,11 @@
     "album": "NA I’M GON GRAB ALLAT"
   },
   {
+    "date": "15 January 2027",
+    "artist": "This Is the Kit",
+    "album": "Ghost Coat"
+  },
+  {
     "date": "22 January 2027",
     "artist": "Kate Nash",
     "album": "Cailín"
@@ -555,8 +610,28 @@
     "album": "UGLY"
   },
   {
+    "date": "29 January 2027",
+    "artist": "Mandrake Handshake",
+    "album": "Laputa"
+  },
+  {
+    "date": "12 February 2027",
+    "artist": "Sugababes",
+    "album": "Sugababes"
+  },
+  {
     "date": "5 March 2027",
     "artist": "Liars",
     "album": "A Ban On Plastic Bag Bans"
+  },
+  {
+    "date": "19 March 2027",
+    "artist": "Bullet For My Valentine",
+    "album": "Social Apocalypse"
+  },
+  {
+    "date": "19 March 2027",
+    "artist": "DragonForce",
+    "album": "DragonForce"
   }
 ]
