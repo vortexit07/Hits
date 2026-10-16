@@ -425,6 +425,11 @@
     "album": "Sugababes"
   },
   {
+    "date": "26 February 2027",
+    "artist": "Blondie",
+    "album": "High Noon"
+  },
+  {
     "date": "5 March 2027",
     "artist": "Liars",
     "album": "A Ban On Plastic Bag Bans"
@@ -443,5 +448,10 @@
     "date": "19 March 2027",
     "artist": "DragonForce",
     "album": "DragonForce"
+  },
+  {
+    "date": "19 March 2027",
+    "artist": "Orbital",
+    "album": "Other"
   }
 ]
